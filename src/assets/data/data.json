@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "hashtags": "",
+      "insights": {
+        "reach": {
+          "total": 0,
+          "followers": 0,
+          "nonFollowers": 0,
+          "origin": { "home": 0, "hashtag": 0, "profile": 0, "other": 0 }
+        },
+        "interactions": {
+          "total": 0,
+          "followers": 0,
+          "nonFollowers": 0,
+          "post": { "like": 0, "comments": 0, "shares": 0, "saves": 0 }
+        },
+        "profile": {
+          "total": 0,
+          "visits": 0,
+          "newFollowers": 0,
+          "email": 0
+        }
+      }
+    }
+  ]
+}
